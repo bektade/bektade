@@ -39,30 +39,4 @@ Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek
 | Workflows & Automation | [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)                                                                                                                                                                                |
 | ML / Analytics         | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&link=https://plotly.com/)](https://plotly.com/) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) |
 
-<!--
 
-  comment out
-
- #### Freelance
-
- ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-
-  --->
-
-#### 📫 Reach me via:
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btkh/)](https://www.linkedin.com/in/btkh/) -->
-
-<!-- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP) -->
-
-[[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)]
-[[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://www.data-wiz-bek.com/)]](https://www.data-wiz-bek.com/)&nbsp;[![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)]
-
- <!-- Github activity  --->
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> -->
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
