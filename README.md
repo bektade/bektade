@@ -11,7 +11,7 @@ Visit My webiste / Scan QR code: [www.data-wiz-bek.com](https://www.data-wiz-bek
 - BS, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
 
 ## 💻 Hands on Experience :
-
+- PLC Programming with ST, Ladder Logic using CODESYS, IDEC WinLDR
 - Building ETL pipelines, Data Visualization, Dashboarding, Data Wrangling, Transformation
 - WebApp Development using Flask and Django
 
