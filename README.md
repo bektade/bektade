@@ -2,7 +2,7 @@ Hi 👋🏽, I'm Bekalu.
 
 Thanks for visiting my GitHub.
 
-Visit My webiste / Scan QR code: [https://www.bekalutadesse.com/](https://www.bekalutadesse.com/) <p align="left"> <img src="./img/new_qr.png" alt="qrCode" width="75"/></p>
+Visit My webiste / Scan QR code: [https://www.bekalutadesse.com/](https://www.bekalutadesse.com/) <p align="left"> <img src="./img/qr2.png" alt="qrCode" width="75"/></p>
 
 ## :mortar_board: Education:
 
