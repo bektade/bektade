@@ -1,6 +1,3 @@
-Hi 👋🏽, I'm Bekalu.
-
-Thanks for visiting my GitHub.
 
 Webiste: [https://bekcsys.com/about/](https://bekcsys.com/about) 
 
@@ -13,10 +10,9 @@ Webiste QR Code :
 - MS, Electrical Engineering & IT - Universität Rostock - Germany (Apr, 2022)
 - BS, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
 
-## 💻 Hands on Experience :
-- PLC Programming with ST, Ladder Logic using CODESYS, IDEC WinLDR
-- Building ETL pipelines, Data Visualization, Dashboarding, Data Wrangling, Transformation
-- WebApp Development using Flask and Django
+## 💻 What I do  :
+- Pretty much everything : WebApps, Data Engineering, CI/CD, Dashboarding, Real time Monitoring /Observability 
+- PLC and controller programming
 
 ## 🏅 Certifications
 
