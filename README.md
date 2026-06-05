@@ -5,7 +5,7 @@
 
 MS CS | MS EE | BS EE
 
-Webiste: [https://bekcsys.com/about/](https://bekcsys.com/) 
+Webiste: [https://bekcsys.com/](https://bekcsys.com/) 
 
 
 #### 💻 I do  :
