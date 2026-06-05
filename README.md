@@ -9,8 +9,7 @@ Webiste: [bekcsys.com/](https://bekcsys.com/)
 
 
 #### 💻 I do  :
-- Pretty much everything : WebApps, IoT Data Engineering, CI/CD, Dashboarding, Real time Monitoring, Sensor Integration 
-- PLC and controller programming
+I engineer cloud-to-edge cyber-physical systems by integrating sensors, controls, HMIs, databases, dashboards, and automated CI/CD workflows into streamlined industrial automation platforms.
 
 #### 🏅 Certs : 2X AWS 
 
