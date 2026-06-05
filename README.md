@@ -8,7 +8,7 @@ MS CS | MS EE | BS EE
 Webiste: [bekcsys.com/](https://bekcsys.com/) 
 
 
-#### 💻 Expertise
+#### Expertise
 I engineer cloud-to-edge cyber-physical systems by integrating sensors, controls, HMIs, databases, dashboards, and automated CI/CD workflows into streamlined industrial automation platforms.
 
 #### 🏅 Certs : 2X AWS 
